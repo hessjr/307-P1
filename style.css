@@ -1,0 +1,157 @@
+@charset "UTF-8";
+/* CSS Document */
+body{
+  background-color: #000000
+}
+.navigation{
+  background-color: #F2D02F;
+  padding: 10px;
+}
+#logo{
+	margin-top: 2px;
+	margin-left: 16px
+}
+.one{
+	background-color: #000000;
+	justify-content: center
+}
+.two{
+	background-color: #000000;
+	justify-content: center
+}
+	.navigation a{
+		color: black;
+		text-decoration: none;
+		font-family: "inter-variable";
+		margin-right: 25px;
+		margin-top: 8px;
+		margin-bottom: 8px;
+		font-size: 18px;
+		float: right
+	}
+
+#welcome{
+	font-family: "inter-variable";
+	font-size: 62px;
+	font-weight: bold;
+	background-color: #000000;
+	padding-top: 45px
+    }
+#welcome p{ 
+	margin: 0;
+	color: #Ffffff;
+	padding-left: 25px;
+	}
+
+.wrapper {
+  display: flex;
+  justify-content:flex-start;
+  background-color: #000000
+}
+#about{
+	width: 625px;
+	margin-left: 50px
+}
+
+#about h1{
+	font-family: "funkydori";
+	color: #000000;
+	font-weight: 100;
+	font-size: 40px;
+	margin-top: 20px;
+	margin-bottom: 1px;
+	background-color:#F2D02F;
+	border-color:#F2D02F;
+	padding-top:25px;
+	padding-left:25px;
+	border-style: solid;
+	border-width: thin;
+	border-bottom-style: none;
+	border-top-left-radius: 18px;
+	border-top-right-radius: 18px
+	}
+#about p{
+	font-family: "inter-variable";
+	font-size: 18px;
+	color: #000000;
+	background-color: #ffffff;
+	padding: 25px;
+	margin-top: 0;
+	border-style: solid;
+	border-top-style: none;
+	border-width: thin;
+	border-color: #ffffff;
+	border-bottom-left-radius: 18px;
+	border-bottom-right-radius: 18px
+	}
+	
+#features{
+	width: 625px;
+	}
+.feature-text{
+	border-style: solid;
+	border-width: thin;
+	border-color: #Ffffff;
+	border-bottom-left-radius: 18px;
+	border-bottom-right-radius: 18px;
+	background-color: #ffffff;
+	padding: 25px
+}
+#features h1{
+	font-family: "funkydori";
+	color: #000000;
+	font-weight: 100;
+	font-size: 40px;
+	margin-top: 20px;
+	margin-bottom: 1px;
+	background-color:#F2D02F;
+	border-color:#F2D02F;
+	padding-top:25px;
+	padding-left:25px;
+	border-style: solid;
+	border-width: thin;
+	border-bottom-style: none;
+	border-top-left-radius: 18px;
+	border-top-right-radius: 18px
+	}
+	
+#features ul{
+	font-family: "inter-variable";
+	font-size: 18px;
+	color: #000000
+	}
+#features p{
+	font-family: "inter-variable";
+	font-size: 18px;
+	font-weight:bold;
+	color: #000000
+	}
+
+#account{
+	border-style: solid;
+	border-bottom-style: none;
+	border-width: thin;
+	background-color: white;
+	padding: 25px
+	}
+#account h1{
+	font-family: "funkydori";
+	font-size: 40px;
+    }
+#info{
+	font-family: "inter-variable";
+	font-size: 18px;
+	}
+#profile{
+	font-family: "inter-variable";
+	font-size: 18px;
+     }
+	footer{
+		color: #F2D02F;
+		font-family: "inter-variable";
+		font-size: 18px;
+		padding: 10px;
+		background-color: #000000
+	}
+
+
